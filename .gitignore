@@ -1,3 +1,7 @@
 build/
 generated-docs/
 Session.vim
+# .gitignore
+private/ # ignores everything in the directory dir1
+private.txt
+*.o # ignore all files with extension .o in all directories
